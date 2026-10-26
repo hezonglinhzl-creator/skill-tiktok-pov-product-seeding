@@ -1,6 +1,6 @@
 {
-  "files": 15,
-  "bytes": 92086,
+  "files": 18,
+  "bytes": 101923,
   "entries": [
     {
       "path": ".gitignore",
@@ -13,14 +13,29 @@
       "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
     },
     {
+      "path": "README.en.md",
+      "bytes": 3444,
+      "sha256": "240c557538cba909e06ac9beaec41096f86c223863072342f84ce77ac0194ae3"
+    },
+    {
       "path": "README.md",
-      "bytes": 948,
-      "sha256": "e1d51aac514017f5f8d2ee4986c1cca62bb9907f6a77a1982d6949c68eebdef8"
+      "bytes": 3124,
+      "sha256": "d072462e5546679ca1b576b4094e537178a3b672fc5d9381eb4a19d90e62c3c7"
     },
     {
       "path": "skill/tiktok-pov-product-seeding/agents/openai.yaml",
       "bytes": 408,
       "sha256": "ac1570c092bf9af3763a4d357a1aaad3601635b718b06b04a1b7b9a7c76b09c4"
+    },
+    {
+      "path": "skill/tiktok-pov-product-seeding/README.en.md",
+      "bytes": 2276,
+      "sha256": "a44abd4b930cae47d7ba99ff72664190c94e7006ce93712f35c10f269bfbaaab"
+    },
+    {
+      "path": "skill/tiktok-pov-product-seeding/README.md",
+      "bytes": 2059,
+      "sha256": "61fe54fe835c249727a823938458154761d2b33d36880306e9c5f2f1ec5c2336"
     },
     {
       "path": "skill/tiktok-pov-product-seeding/references/storyboard_schema.json",
@@ -59,8 +74,8 @@
     },
     {
       "path": "skill/tiktok-pov-product-seeding/SKILL.md",
-      "bytes": 8400,
-      "sha256": "338e4105012c1751fa46e7b73978ef4920116fa9bb4db066a0ad1640fbbe4574"
+      "bytes": 8282,
+      "sha256": "0d3572dfc063752d5348ee412b59cdc3fddb4229607c88f78003c8dd7e11a863"
     },
     {
       "path": "skill/tiktok-pov-product-seeding/templates/product_brief.example.json",
