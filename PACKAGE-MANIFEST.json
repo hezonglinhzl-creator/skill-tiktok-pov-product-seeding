@@ -1,26 +1,26 @@
 {
   "files": 18,
-  "bytes": 101923,
+  "bytes": 105212,
   "entries": [
     {
       "path": ".gitignore",
-      "bytes": 527,
-      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+      "bytes": 552,
+      "sha256": "306594764a35cf47b68ddefaf227968de9684a1c465fafa94d821ba4c5162e96"
     },
     {
       "path": "install.ps1",
-      "bytes": 646,
-      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+      "bytes": 2339,
+      "sha256": "d662489ba0c1bf009c714b6030eab322a04042b5d8ff441eeb56bb4549763dd3"
     },
     {
       "path": "README.en.md",
-      "bytes": 3444,
-      "sha256": "240c557538cba909e06ac9beaec41096f86c223863072342f84ce77ac0194ae3"
+      "bytes": 3734,
+      "sha256": "0bb1cdb5c2c4d7dece2832ce283b8dc65d7fcf2ad0ff14c0a618a4f502e34a1b"
     },
     {
       "path": "README.md",
-      "bytes": 3124,
-      "sha256": "d072462e5546679ca1b576b4094e537178a3b672fc5d9381eb4a19d90e62c3c7"
+      "bytes": 3360,
+      "sha256": "b32230008c4c9ee2ec90f8640c50a8dff8356d5d8e601e0073f12925432c9399"
     },
     {
       "path": "skill/tiktok-pov-product-seeding/agents/openai.yaml",
@@ -74,8 +74,8 @@
     },
     {
       "path": "skill/tiktok-pov-product-seeding/SKILL.md",
-      "bytes": 8282,
-      "sha256": "0d3572dfc063752d5348ee412b59cdc3fddb4229607c88f78003c8dd7e11a863"
+      "bytes": 9327,
+      "sha256": "01b1eae0270a464a79f437f809a309b2b9746fdc3a34ce91cc272a17a458b7fd"
     },
     {
       "path": "skill/tiktok-pov-product-seeding/templates/product_brief.example.json",
